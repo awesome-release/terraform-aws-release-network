@@ -2,10 +2,6 @@
 
 This **example** Terraform module gets and returns AWS network identifiers to simplify adding services to your [Release](https://releasehub.com/) Kubernetes cluster's VPC on AWS.
 
-## :warning: Pre-release example module :warning:
-
-This is a pre-release example Terraform module. Do not rely on this module, as the API may change without notice.
-
 ## Quick start
 
 1.  Add this module to your Terraform configuration.
